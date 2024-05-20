@@ -16,6 +16,6 @@ http://127.0.0.1:3333/roupas/:id -> Atualização de dados ou remoção dos mesm
 
 Rotas das lojas(material extra para a edição completa do objetivo acima)
 
-http://127.0.0.1:3333/lojas -> Recebe o array das lojas adicionadas(podem ser vistas no arquivo lojaController.js) </br>
-http://127.0.0.1:3333/lojas/add -> Adição de lojas ao array(não serão guardadas caso feche o servidor) </br>
-http://127.0.0.1:3333/lojas/delete -> Remoção de uma loja do array
+http://127.0.0.1:3333/loja -> Recebe o array das lojas adicionadas(podem ser vistas no arquivo lojaController.js) </br>
+http://127.0.0.1:3333/loja/add -> Adição de lojas ao array(não serão guardadas caso feche o servidor) </br>
+http://127.0.0.1:3333/loja/delete -> Remoção de uma loja do array
